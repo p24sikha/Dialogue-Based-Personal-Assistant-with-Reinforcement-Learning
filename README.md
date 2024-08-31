@@ -1,5 +1,19 @@
 # Dialogue-Based Personal Assistant with Reinforcement Learning
 
+
+# Project Documentation
+
+This project includes an HTML document named [`chatbot.html`](./chatbot.html) that demonstrates the capabilities and interactions of the chatbot.
+
+## How to View the Chatbot Demo
+
+1. Click on the following link to open the demo: [`chatbot.html`](./chatbot.html).
+2. The `chatbot.html` file will open in your default web browser (recommended: Microsoft Edge).
+3. The demo will showcase the chatbot's functionality and user interactions.
+
+Make sure to use Microsoft Edge for the best viewing experience.
+
+
 ## Project Overview
 
 This capstone project focuses on developing an advanced dialogue-based personal assistant that leverages reinforcement learning to enhance its conversational abilities. The project integrates natural language processing (NLP) techniques and a feedback mechanism to ensure the assistant becomes increasingly responsive, adaptable, and personalized over time. The aim is to create a highly context-aware personal assistant that evolves based on user interactions and feedback, delivering a seamless and engaging conversational experience.
