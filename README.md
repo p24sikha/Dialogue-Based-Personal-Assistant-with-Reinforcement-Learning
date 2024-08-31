@@ -1,23 +1,5 @@
 # Dialogue-Based Personal Assistant with Reinforcement Learning
 
-
-# Project Documentation
-
-This project includes an HTML document named [`chatbot.html`](https://github.com/p24sikha/Dialogue-Based-Personal-Assistant-with-Reinforcement-Learning.git/chatbot.html) that demonstrates the capabilities and interactions of the chatbot.
-
-## How to View the Chatbot Demo
-
-1. Click on the following link to view the demo: [Chatbot Demo](https://github.com/p24sikha/Dialogue-Based-Personal-Assistant-with-Reinforcement-Learning.git/chatbot.html).
-2. The demo will open in your web browser and showcase the chatbot's functionality and user interactions.
-
-For the best viewing experience, use Microsoft Edge or any other modern web browser.
-
-
-
-## Project Overview
-
-This capstone project focuses on developing an advanced dialogue-based personal assistant that leverages reinforcement learning to enhance its conversational abilities. The project integrates natural language processing (NLP) techniques and a feedback mechanism to ensure the assistant becomes increasingly responsive, adaptable, and personalized over time. The aim is to create a highly context-aware personal assistant that evolves based on user interactions and feedback, delivering a seamless and engaging conversational experience.
-
 ## Objective
 
 The goal of this project is to provide practical experience in developing a personal assistant that improves its dialogue management and response generation capabilities through reinforcement learning. The assistant is designed to understand and respond to user queries, adapt its responses based on user feedback, and maintain a high level of coherence, relevance, and user satisfaction.
@@ -34,6 +16,64 @@ Imagine you are working with a technology company tasked with creating an advanc
 6. **Adaptability and Personalization**: Enhancing the model's adaptability to user preferences and context.
 7. **Ethical Considerations**: Addressing user data privacy and mitigating biases in the model's responses.
 8. **Documentation and Reproducibility**: Providing detailed documentation of the model development process and ensuring reproducibility.
+
+## Instructions
+
+### Step 1: Data Exploration and Processing
+
+- Analyze the conversation dataset to understand patterns, user intents, and challenges.
+- Preprocess the dataset to extract features necessary for reinforcement learning.
+
+### Step 2: Reinforcement Learning Model Development
+
+- Implement a reinforcement learning model for dialogue management.
+- Explore and apply deep Q-learning or policy gradient methods for effective learning.
+
+### Step 3: Integration with NLP for Natural Language Understanding
+
+- Utilize NLP techniques to enhance the assistant's understanding of user queries.
+- Implement tokenization, part-of-speech tagging, and entity recognition.
+
+### Step 4: Evaluation Metrics for Dialogue Quality
+
+- Define evaluation metrics to assess coherence, relevance, and user satisfaction in the dialogues.
+
+### Step 5: User Feedback Mechanism
+
+- Integrate a feedback loop to continuously improve the model based on user feedback.
+
+### Step 6: Adaptability and Personalization
+
+- Enhance the model's adaptability to user preferences and conversational context.
+- Explore methods for personalizing responses based on user history.
+
+### Step 7: Ethical Considerations
+
+- Address ethical implications related to user data privacy and biased learning.
+- Implement safeguards to mitigate ethical concerns in development and deployment.
+
+### Step 8: Documentation and Reproducibility
+
+- Document the entire model development process, including algorithms, parameters, and training strategies.
+- Provide clear instructions for reproducing the results and training the model on new data.
+
+  ## Visualization
+
+![Dashboard Screenst](img1.png)
+
+![Dashboard Screenshot](img2.png)
+
+
+## Dataset
+
+To access the dataset used in this project, please follow the link below:
+
+[Customer Data for Segmentation](https://drive.google.com/file/d/1ylshB03y9-tTsGkxi00c5j5E5P-Vbgdr/view?usp=sharing)
+
+
+### Step 9: Presentation
+
+- Prepare a brief presentation outlining the entire model development process.
 
 ## Submission
 
@@ -60,12 +100,6 @@ Imagine you are working with a technology company tasked with creating an advanc
 
 - A presentation summarizing key points from the report.
 - Visualization of key transformations and their impact on the dataset.
-
-## Included Files
-
-- **chatbot.html**: This Microsoft Edge HTML document provides a detailed demonstration of the chatbot's capabilities and interactions. Open this file in Microsoft Edge to view the demo.
-
-## Evaluation Criteria
 
 ### User-Centric Design
 
@@ -97,15 +131,6 @@ Imagine you are working with a technology company tasked with creating an advanc
 - Quality and clarity of documentation for the model, preprocessing steps, and project workflow.
 - Engaging presentation on the importance of data preprocessing and model development.
 
-## Tips for Success
-
-- Understand target users, their preferences, and the context in which the assistant will be used.
-- Curate a diverse and representative dataset for training the reinforcement learning model.
-- Experiment with different reinforcement learning algorithms and hyperparameters to fine-tune performance.
-- Develop a systematic feedback loop for users to provide feedback on responses.
-- Prioritize user-centric design principles and adapt responses based on user history.
-- Address ethical considerations, ensuring adherence to privacy standards and avoiding biases.
-- Provide comprehensive documentation for the model architecture, preprocessing steps, and overall workflow.
 
 ## Note
 
