@@ -3,15 +3,15 @@
 
 # Project Documentation
 
-This project includes an HTML document named [`chatbot.html`](./chatbot.html) that demonstrates the capabilities and interactions of the chatbot.
+This project includes an HTML document named [`chatbot.html`](https://github.com/p24sikha/Dialogue-Based-Personal-Assistant-with-Reinforcement-Learning.git/chatbot.html) that demonstrates the capabilities and interactions of the chatbot.
 
 ## How to View the Chatbot Demo
 
-1. Click on the following link to open the demo: [`chatbot.html`](./chatbot.html).
-2. The `chatbot.html` file will open in your default web browser (recommended: Microsoft Edge).
-3. The demo will showcase the chatbot's functionality and user interactions.
+1. Click on the following link to view the demo: [Chatbot Demo](https://github.com/p24sikha/Dialogue-Based-Personal-Assistant-with-Reinforcement-Learning.git/chatbot.html).
+2. The demo will open in your web browser and showcase the chatbot's functionality and user interactions.
 
-Make sure to use Microsoft Edge for the best viewing experience.
+For the best viewing experience, use Microsoft Edge or any other modern web browser.
+
 
 
 ## Project Overview
