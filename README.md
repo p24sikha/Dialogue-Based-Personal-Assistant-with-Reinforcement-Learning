@@ -22,7 +22,7 @@ Imagine you are working with a technology company tasked with creating an advanc
 8. **Documentation and Reproducibility**: Providing detailed documentation of the model development process and ensuring reproducibility.
 
 ## Submission
-![Dashboard Screenst](dash_board_1.jpg)
+![Dashboard Screenst](dash_board_1.JPG)
 ### Pre-processed Dataset and Reinforcement Learning Model
 
 - Final dataset used for training and testing.
